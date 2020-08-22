@@ -16,6 +16,7 @@ jsonData = {'jd': []}  # json数据
 # 关闭文件
 def fileClose():
     file.close()
+    jsonFile.close()
 
 
 # 构建类别映射表
@@ -33,12 +34,20 @@ def mapping():
     typeMapping[21439] = '租赁/经营权'
 
 
+# 判断是否含有汉字
+def hasChinese(s):
+    for c in s:
+        if '\u4e00' <= c <= '\u9fa5':
+            return True
+    return False
+
+
 # 主进程
 def main():
     mapping()
 
-    pages = 3  # 网页共有238页, 这里为了测试速度只抓取了3页
-    url = 'https://auction.jd.com/getAssetsList.html?provinceId=12&limit=40&page='
+    pages = 4  # 网页共有4页
+    url = 'https://auction.jd.com/getAssetsList.html?childrenCateId=12762&provinceId=12&limit=40&page='
     fix = '&callback=axiosJsonpCallback6&_=1598077141286'
 
     for i in range(pages):
@@ -74,9 +83,14 @@ def writeTxt(data):
     file.write('保证金：' + str(data['ensurePrice']) + '\n')
     file.write('加价幅度：' + str(data['priceLowerOffset']) + '\n')
     file.write('出价次数：' + str(data['bidCount']) + '\n')
-    file.write('类别：' + typeMapping[data['productCateId']] + '\n')
+    # file.write('类别：' + typeMapping[data['productCateId']] + '\n')
     file.write('城市：' + data['city'] + '\n')
-    file.write('来源：' + data['publisher'] + '\n\n')
+    publisher = data['publisher']
+    if hasChinese(publisher):
+        file.write('送拍机构：' + publisher + '\n\n')
+    else:
+        file.write('送拍机构：未知\n\n')
+
     print(number)
     number = number + 1
 
@@ -95,8 +109,12 @@ def writeJson(data):
     jsonObj['ensurePrice'] = data['ensurePrice']
     jsonObj['priceLowerOffset'] = data['priceLowerOffset']
     jsonObj['bidCount'] = data['bidCount']
-    jsonObj['type'] = typeMapping[data['productCateId']]
+    # jsonObj['type'] = typeMapping[data['productCateId']]
     jsonObj['city'] = data['city']
-    jsonObj['publisher'] = data['publisher']
+    publisher = data['publisher']
+    if hasChinese(publisher):
+        jsonObj['publisher'] = publisher
+    else:
+        jsonObj['publisher'] = '未知'
 
     jsonData['jd'].append(jsonObj)

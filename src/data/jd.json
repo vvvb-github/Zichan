@@ -1,1204 +1,1084 @@
 {
   "jd": [
     {
-      "bidCount": 6,
-      "city": "南通市",
-      "currentPrice": 661.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 66.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 3,
-      "city": "南通市",
-      "currentPrice": 67.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 22.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 2,
-      "city": "南通市",
-      "currentPrice": 37.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 1,
-      "city": "徐州市",
-      "currentPrice": 1170.0,
-      "ensurePrice": 300.0,
-      "priceLowerOffset": 5.0,
-      "publisher": "东风拍卖行",
-      "title": "【服装百货】初始来源于海关涉案财物翡翠手镯一只证书编号S007002118【包邮】标12",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "扬州市",
-      "currentPrice": 1.0,
-      "ensurePrice": 200.0,
-      "priceLowerOffset": 30.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】原值3280元全新扬州古筝红木暗香袭人一台",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 280.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】一套娜洋罗莱全棉贡缎四件套欧式提花",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "徐州市",
-      "currentPrice": 938.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "森拓拍卖",
-      "title": "【服装百货】240个创意钻石盖水杯子玻璃杯七彩男女学生便携情侣杯",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 150.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】蚕丝棉蚕子被  夏凉被总重1.9kg 尺寸2*2.3米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 935.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "科沃斯扫拖一体机 APP控制 智能规划5.7cm超博吸尘器扫地机 ",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 60.0,
-      "ensurePrice": 10.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】单只价值280元卡通儿童乳胶枕  1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 1,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 1,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 66.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
       "bidCount": 0,
       "city": "苏州市",
       "currentPrice": 3000000.0,
       "ensurePrice": 150000.0,
       "priceLowerOffset": 0.0,
       "publisher": "武义知青",
-      "title": "（房产）苏州市高新区新升新苑84幢101室",
-      "type": "房产"
+      "title": "（房产）苏州市高新区新升新苑84幢101室"
     },
     {
       "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 699.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
+      "city": "南通市",
+      "currentPrice": 254000.0,
+      "ensurePrice": 30000.0,
+      "priceLowerOffset": 1000.0,
       "publisher": "鹏霞资产",
-      "title": "【数码家电】全新科沃斯 扫地机器人地宝CEN335",
-      "type": "库存物资"
+      "title": "捡漏清盘南通如东丰利绿都财富广场9号楼119室复式商铺"
     },
     {
       "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 550.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 10.0,
+      "city": "南通市",
+      "currentPrice": 254000.0,
+      "ensurePrice": 30000.0,
+      "priceLowerOffset": 1000.0,
       "publisher": "鹏霞资产",
-      "title": "【数码家】价值1480元西屋 多功能锅料理锅电火锅家用电烤锅  WSC-1423标配3个盘",
-      "type": "库存物资"
+      "title": "捡漏清盘南通如东丰利绿都财富广场9号楼121室复式商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 254000.0,
+      "ensurePrice": 30000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "鹏霞资产",
+      "title": "捡漏清盘南通如东丰利绿都财富广场9号楼118室复式商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 2140000.0,
+      "ensurePrice": 500000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "鹏霞资产",
+      "title": "捡漏清盘南通市如东县丰利绿都财富广场9号楼3楼1081平方"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 254000.0,
+      "ensurePrice": 30000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "鹏霞资产",
+      "title": "捡漏清盘南通如东丰利绿都财富广场9号楼120室复式商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 254000.0,
+      "ensurePrice": 30000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "鹏霞资产",
+      "title": "捡漏清盘南通如东丰利绿都财富广场9号楼117室复式商铺"
+    },
+    {
+      "bidCount": 59,
+      "city": "南通市",
+      "currentPrice": 1191123.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园南苑1幢504"
     },
     {
       "bidCount": 1,
       "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
+      "currentPrice": 965565.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居3幢508"
     },
     {
-      "bidCount": 0,
+      "bidCount": 1,
       "city": "南通市",
-      "currentPrice": 1000.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
+      "currentPrice": 976653.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居3幢507"
     },
     {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 65.0,
-      "ensurePrice": 10.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】单只价值480元新皇家纯天然乳胶枕狼牙枕1只",
-      "type": "库存物资"
+      "bidCount": 4,
+      "city": "无锡市",
+      "currentPrice": 588500.0,
+      "ensurePrice": 60000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【三拍】-平安银行-溪南新村376-1-101"
     },
     {
-      "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 699.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码家电】科沃斯扫地机器人家电吸尘地宝CEN335  全自动家用超薄智能",
-      "type": "库存物资"
+      "bidCount": 1,
+      "city": "无锡市",
+      "currentPrice": 1340500.0,
+      "ensurePrice": 140000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【二拍】-平安银行-永定巷15-2304"
     },
     {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 80.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒三件套   被套1.5*2米床单1.8*2.2",
-      "type": "库存物资"
+      "bidCount": 1,
+      "city": "无锡市",
+      "currentPrice": 2312200.0,
+      "ensurePrice": 240000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【三拍】-平安银行-无锡市汉江北路119号121号商铺"
     },
     {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 88.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码百货】无印  简约风水洗棉四件套  尺寸1.8*2米床标准款",
-      "type": "库存物资"
+      "bidCount": 1,
+      "city": "无锡市",
+      "currentPrice": 700000.0,
+      "ensurePrice": 70000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【二拍】-平安银行-广汇花苑40幢203室"
     },
     {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 100.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
+      "bidCount": 1,
+      "city": "无锡市",
+      "currentPrice": 1467340.0,
+      "ensurePrice": 150000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【二拍】-平安银行-江苏无锡汉江北路170号"
     },
     {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 85.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【居家装饰】 价值218元无印 简约款水洗棉四件套 裸睡四件套 1.8米床标准款",
-      "type": "库存物资"
+      "bidCount": 21,
+      "city": "无锡市",
+      "currentPrice": 1478800.0,
+      "ensurePrice": 120000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-东方明珠花园54号401室"
     },
     {
-      "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 1000.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码百货】科沃斯机器人扫地机器人 DG500  超薄视觉导航 APP智控扫拖一体",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1650.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码百货】全新价值6850元天然乳胶床垫  尺寸1.8*2米厚度10cm",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 2,
-      "city": "南通市",
-      "currentPrice": 67.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 66.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 22.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 2,
-      "city": "南通市",
-      "currentPrice": 19.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 280.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】一套娜洋罗莱全棉贡缎四件套欧式提花",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 280.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】一套娜洋罗莱全棉贡缎四件套欧式提花",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 22.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 66.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 60.0,
-      "ensurePrice": 10.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】单只价值280元卡通儿童乳胶枕  1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 290.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】原值988元全新娜洋罗莱欧美水洗真丝夏季四件套一套",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 430000.0,
+      "bidCount": 8,
+      "city": "无锡市",
+      "currentPrice": 435000.0,
       "ensurePrice": 50000.0,
-      "priceLowerOffset": 1000.0,
-      "publisher": "鹏霞资产",
-      "title": "19年德龙X3000自卸车 个人重型自卸货车",
-      "type": "交通运输"
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-宜滨新村156号401室"
+    },
+    {
+      "bidCount": 74,
+      "city": "无锡市",
+      "currentPrice": 6030000.0,
+      "ensurePrice": 450000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【二拍】-平安银行-江苏宜兴海德名园35号房产"
+    },
+    {
+      "bidCount": 25,
+      "city": "无锡市",
+      "currentPrice": 2320000.0,
+      "ensurePrice": 210000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-汉江北路138号房产"
     },
     {
       "bidCount": 0,
       "city": "南通市",
-      "currentPrice": 40000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
+      "currentPrice": 350000.0,
+      "ensurePrice": 50000.0,
+      "priceLowerOffset": 500.0,
       "publisher": "鹏霞资产",
-      "title": "第二次  苏F重型低平板半挂车 【长12.92】",
-      "type": "交通运输"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 25000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "鹏霞资产",
-      "title": "第二次  苏F重型低平板半挂车【长10.94米】",
-      "type": "交通运输"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 30000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "鹏霞资产",
-      "title": "11年赛信中空设备一套型号GPL-XY2000",
-      "type": "机械设备"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：姚大帅（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 20000.0,
-      "ensurePrice": 24000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "鹏霞资产",
-      "title": "一辆电动保洁清扫车   四辆保洁三轮电动车",
-      "type": "机械设备"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：优维多（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：优维多（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：芝盾（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：好奕（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：普时顿（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：马斐斯（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：腾诗顿TENSHIDUN（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：帝凯豪（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：尼宝顿NIBAIDUN（第25类、含过户费）",
-      "type": "无形资产"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 76000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "鹏霞资产",
-      "title": "第二次 转让2011年德龙F3000自卸车 【保障】",
-      "type": "交通运输"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 6900.0,
-      "ensurePrice": 3000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "【居家装饰】厂家库存东非酸枝木餐桌圆桌一套（1桌5凳）",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 66.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
+      "title": "转让南通市工农北路58号鸿运装饰城B9幢209室"
     },
     {
       "bidCount": 0,
       "city": "南京市",
-      "currentPrice": 699.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码家电】全新科沃斯 扫地机器人地宝CEN335",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 550.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码家】价值1480元西屋 多功能锅料理锅电火锅家用电烤锅  WSC-1423标配3个盘",
-      "type": "库存物资"
+      "currentPrice": 1900000.0,
+      "ensurePrice": 80000.0,
+      "priceLowerOffset": 3000.0,
+      "publisher": "琛博拍卖行",
+      "title": "南京市浦口区柳新路28号11幢2单元1306室，建筑面积：111.95平方米"
     },
     {
       "bidCount": 0,
       "city": "南通市",
-      "currentPrice": 65.0,
-      "ensurePrice": 10.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】单只价值480元新皇家纯天然乳胶枕狼牙枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1000.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 80.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒三件套   被套1.5*2米床单1.8*2.2",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 360.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】原值1398元 娜洋罗莱高档双面天丝春夏季四件套一套尺寸2.0*2.3",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 22.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 66.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 80000.0,
-      "ensurePrice": 5000.0,
+      "currentPrice": 1074530.0,
+      "ensurePrice": 40000.0,
       "priceLowerOffset": 1000.0,
-      "publisher": "661300hubo",
-      "title": "【贯通拍卖577】8吨轮胎吊机",
-      "type": "机械设备"
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓38幢506"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 977049.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居2幢505"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1068864.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓35幢505"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1059357.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区明富三园锦庭3幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 985014.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居12幢506"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 976653.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居3幢502"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 994607.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居2幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1071375.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓18幢505"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1189762.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园南苑5幢502"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1035157.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区明富三园锦庭4幢503"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1071606.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓16幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1214682.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园南苑5幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1072782.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区明富三园锦庭3幢501"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 984744.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居5幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1022005.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓28幢502"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 977022.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居8幢507"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 984744.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居5幢503"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1077177.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区明富三园锦庭4幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 976653.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居3幢505"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1065234.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓15幢501"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1076544.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓35幢508"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1070784.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓35幢501"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1074530.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓13幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 986121.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居3幢506"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 985014.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居8幢506"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1021284.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓27幢503"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1084108.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓18幢501"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1068864.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓35幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 976653.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居3幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1090205.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓11幢508"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 985014.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居8幢502"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1085986.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓38幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1064596.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓34幢503"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1021284.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓30幢502"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1021284.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓27幢502"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1073892.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓13幢503"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1084333.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓10幢508"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1065234.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓34幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1073892.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓38幢503"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1075215.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓20幢505"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1085986.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓12幢506"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1065234.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓15幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1077820.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓23幢504"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1082162.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓13幢506"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 50000000.0,
+      "ensurePrice": 2500000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "琛博拍卖行",
+      "title": "江苏省苏州市金鸡湖李公堤中海御湖熙岸毛坯别墅，建筑面积：333.32平方米"
+    },
+    {
+      "bidCount": 0,
+      "city": "泰州市",
+      "currentPrice": 6278900.0,
+      "ensurePrice": 627890.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "未知",
+      "title": "兰州银行-江苏省兴化市合陈镇昌自建房"
     },
     {
       "bidCount": 0,
       "city": "宿迁市",
-      "currentPrice": 950.0,
-      "ensurePrice": 9771.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "661300hubo",
-      "title": "【贯通拍卖】（5）过滤器",
-      "type": "机械设备"
+      "currentPrice": 1065000.0,
+      "ensurePrice": 106500.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H004】宿迁市翡翠蓝湾高层三楼88平方"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 60.0,
-      "ensurePrice": 10.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】单只价值280元卡通儿童乳胶枕  1只",
-      "type": "库存物资"
+      "city": "宿迁市",
+      "currentPrice": 1070000.0,
+      "ensurePrice": 107000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H005】宿迁市华夏现代城高层二楼124平方"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 290.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】原值988元全新娜洋罗莱欧美水洗真丝夏季四件套一套",
-      "type": "库存物资"
+      "city": "宿迁市",
+      "currentPrice": 1140000.0,
+      "ensurePrice": 114000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H003】宿迁市项王三期多层二楼120平方"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
+      "city": "宿迁市",
+      "currentPrice": 1220000.0,
+      "ensurePrice": 122000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H001】宿迁市格林上郡15楼110平包括产权车位"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 66.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
+      "city": "宿迁市",
+      "currentPrice": 1060000.0,
+      "ensurePrice": 106000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H002】宿迁市金色家园多层一楼114平方"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
+      "city": "苏州市",
+      "currentPrice": 50000000.0,
+      "ensurePrice": 2500000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "琛博拍卖行",
+      "title": "江苏省苏州市金鸡湖李公堤中海御湖熙岸毛坯别墅，建筑面积：333.32平方米"
     },
     {
       "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 1.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 95.0,
-      "publisher": "鹏霞资产",
-      "title": "科沃斯扫拖一体机 APP控制 智能规划5.7cm超博吸尘器扫地机 ",
-      "type": "库存物资"
+      "city": "淮安市",
+      "currentPrice": 1460000.0,
+      "ensurePrice": 60000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】淮安融侨观邸2#97-24商铺拍卖（可按揭）"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 22.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
+      "city": "淮安市",
+      "currentPrice": 1410000.0,
+      "ensurePrice": 60000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】淮安融侨观邸1#97-18商铺拍卖（可按揭）"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 98.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 66.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值1600元 欧式水晶绒夹棉蕾丝床单式四件套 枕套被套床单 共4件",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 33.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】宽边床裙夏被凉席四件套 被套2*2.3床单2.7*2.7",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 22.0,
-      "publisher": "鹏霞资产",
-      "title": "【居家装饰】 价值218元无印 简约款水洗棉四件套 裸睡四件套 1.8米床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 78.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 699.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码家电】全新科沃斯 扫地机器人地宝CEN335",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 550.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码家】价值1480元西屋 多功能锅料理锅电火锅家用电烤锅  WSC-1423标配3个盘",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 65.0,
-      "ensurePrice": 10.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】单只价值480元新皇家纯天然乳胶枕狼牙枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1000.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床含2个乳胶枕  规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 1000.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码百货】科沃斯机器人扫地机器人 DG500  超薄视觉导航 APP智控扫拖一体",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南京市",
-      "currentPrice": 699.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码家电】科沃斯扫地机器人家电吸尘地宝CEN335  全自动家用超薄智能",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 100.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 85.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【居家装饰】 价值218元无印 简约款水洗棉四件套 裸睡四件套 1.8米床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 80.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒三件套   被套1.5*2米床单1.8*2.2",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1650.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码百货】全新价值6850元天然乳胶床垫  尺寸1.8*2米厚度10cm",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 88.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 10.0,
-      "publisher": "鹏霞资产",
-      "title": "【数码百货】无印  简约风水洗棉四件套  尺寸1.8*2米床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 22.0,
-      "publisher": "鹏霞资产",
-      "title": "【居家装饰】 价值218元无印 简约款水洗棉四件套 裸睡四件套 1.8米床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 360.0,
-      "ensurePrice": 50.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】原值1398元 娜洋罗莱高档双面天丝春夏季四件套一套尺寸2.0*2.3",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 89.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚7.5cm 1床规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 30.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值398元希尔顿天然乳胶枕1只",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "常州市",
-      "currentPrice": 45000.0,
-      "ensurePrice": 10000.0,
-      "priceLowerOffset": 50.0,
-      "publisher": "东风拍卖行",
-      "title": "【起拍单价18元】约2500条金利来男士保暖裤加绒加厚打底裤紧身棉裤毛裤一体绒裤M-4XL",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 98.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】价值3990天然乳胶新皇家乳胶床垫厚5m 1床规格1.8*2米",
-      "type": "库存物资"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 1.0,
-      "ensurePrice": 20.0,
-      "priceLowerOffset": 18.0,
-      "publisher": "鹏霞资产",
-      "title": "【服装百货】AB款水晶绒四件套1.8床标准款",
-      "type": "库存物资"
+      "city": "淮安市",
+      "currentPrice": 1590000.0,
+      "ensurePrice": 65000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】淮安融侨观邸1#97-9商铺拍卖（可按揭）"
     },
     {
       "bidCount": 0,
       "city": "徐州市",
-      "currentPrice": 938.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "森拓拍卖",
-      "title": "【服装百货】240个创意钻石盖水杯子玻璃杯七彩男女学生便携情侣杯",
-      "type": "库存物资"
+      "currentPrice": 700000.0,
+      "ensurePrice": 70000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖H001】徐州市袁桥小区二期75.35m²"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 280.0,
-      "ensurePrice": 100.0,
-      "priceLowerOffset": 20.0,
-      "publisher": "森拓拍卖",
-      "title": "【居家装饰】一套娜洋罗莱全棉贡缎四件套欧式提花",
-      "type": "库存物资"
+      "city": "苏州市",
+      "currentPrice": 1250000.0,
+      "ensurePrice": 60000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】太仓融侨悦江南1#101精装三房拍卖（可按揭）"
     },
     {
       "bidCount": 0,
-      "city": "南通市",
-      "currentPrice": 140000.0,
-      "ensurePrice": 10000.0,
+      "city": "苏州市",
+      "currentPrice": 1460000.0,
+      "ensurePrice": 70000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】太仓融侨悦江南8#1404四房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 0,
+      "city": "淮安市",
+      "currentPrice": 680000.0,
+      "ensurePrice": 25000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】淮安融侨悦城7#804三房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 2100000.0,
+      "ensurePrice": 80000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】无锡融侨悦府1#2-3004四房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 2174000.0,
+      "ensurePrice": 90000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】南京融侨观澜6#104三房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 1,
+      "city": "苏州市",
+      "currentPrice": 1240000.0,
+      "ensurePrice": 60000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】太仓融侨悦江南4#1701三房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 1,
+      "city": "淮安市",
+      "currentPrice": 690000.0,
+      "ensurePrice": 25000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】淮安融侨悦城7#704三房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 2315000.0,
+      "ensurePrice": 90000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】南京融侨观澜2#103三房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 2164000.0,
+      "ensurePrice": 90000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】南京融侨观澜7#101三房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 2120000.0,
+      "ensurePrice": 80000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】无锡融侨悦府1#2-804四房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 2170000.0,
+      "ensurePrice": 80000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】无锡融侨悦府1#2-2304 四房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 1,
+      "city": "淮安市",
+      "currentPrice": 720000.0,
+      "ensurePrice": 30000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "溥力资产",
+      "title": "【融侨5月购房季】淮安融侨悦城7#1704三房拍卖（可按揭）"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 1065000.0,
+      "ensurePrice": 106500.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H004】宿迁市翡翠蓝湾高层三楼88平方"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 1070000.0,
+      "ensurePrice": 107000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H005】宿迁市华夏现代城高层二楼124平方"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 1220000.0,
+      "ensurePrice": 122000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H001】宿迁市格林上郡15楼110平包括产权车位"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 1140000.0,
+      "ensurePrice": 114000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H003】宿迁市项王三期多层二楼120平方"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 1060000.0,
+      "ensurePrice": 106000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖 SQ H002】宿迁市金色家园多层一楼114平方"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 40000000.0,
+      "ensurePrice": 500000.0,
+      "priceLowerOffset": 300000.0,
+      "publisher": "琛博拍卖行",
+      "title": "江苏省苏州市金鸡湖李公堤中海御湖熙岸毛坯别墅，建筑面积：333.32平方米"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 1650000.0,
+      "ensurePrice": 400000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "未知",
+      "title": "徐州市永安街邮电局北侧1-2层房地产拍卖"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 700000.0,
+      "ensurePrice": 70000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "国茂拍卖A",
+      "title": "【国茂拍卖H001】徐州市袁桥小区二期75.35m²"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 200000.0,
+      "ensurePrice": 30000.0,
       "priceLowerOffset": 1000.0,
-      "publisher": "661300hubo",
-      "title": "【贯通拍卖577】16吨轮胎吊机",
-      "type": "机械设备"
+      "publisher": "上海卡因资产管理",
+      "title": "苏州市吴江区震泽镇崸塘路2999号11幢-207室"
+    },
+    {
+      "bidCount": 102,
+      "city": "南京市",
+      "currentPrice": 1785000.0,
+      "ensurePrice": 80000.0,
+      "priceLowerOffset": 5000.0,
+      "publisher": "琛博拍卖行",
+      "title": "江苏南京市鼓楼区钟阜路2号19幢1-401室，建筑面积：64.91平方米"
+    },
+    {
+      "bidCount": 0,
+      "city": "泰州市",
+      "currentPrice": 6240734.15,
+      "ensurePrice": 624073.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "未知",
+      "title": "兰州银行-江苏省兴化市合陈镇昌自建房"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 30000000.0,
+      "ensurePrice": 4500000.0,
+      "priceLowerOffset": 100000.0,
+      "publisher": "琛博拍卖行",
+      "title": "江苏省苏州市金鸡湖李公堤中海御湖熙岸毛坯别墅，建筑面积：333.32平方米"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 1650000.0,
+      "ensurePrice": 400000.0,
+      "priceLowerOffset": 2000.0,
+      "publisher": "未知",
+      "title": "徐州市永安街邮电局北侧1-2层房地产拍卖"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 1860000.0,
+      "ensurePrice": 200000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "未知",
+      "title": "沛县敬安镇徐丰公路南侧的一处房产"
+    },
+    {
+      "bidCount": 11,
+      "city": "苏州市",
+      "currentPrice": 55001.0,
+      "ensurePrice": 30000.0,
+      "priceLowerOffset": 5000.0,
+      "publisher": "上海卡因资产管理",
+      "title": "苏州市吴江区震泽镇崸塘路2999号11幢-207室"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 83000000.0,
+      "ensurePrice": 5000000.0,
+      "priceLowerOffset": 5000.0,
+      "publisher": "琛博拍卖行",
+      "title": "江苏省苏州市金鸡湖李公堤中海御湖熙岸毛坯别墅，建筑面积：333.32平方米"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 1860000.0,
+      "ensurePrice": 200000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "未知",
+      "title": "沛县敬安镇徐丰公路南侧的一处房产"
     },
     {
       "bidCount": 0,
       "city": "南通市",
-      "currentPrice": 70000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 1000.0,
-      "publisher": "661300hubo",
-      "title": "【贯通拍卖577】8吨固定吊机",
-      "type": "机械设备"
+      "currentPrice": 8800000.0,
+      "ensurePrice": 800000.0,
+      "priceLowerOffset": 100000.0,
+      "publisher": "润园资产",
+      "title": "海门市海门街道东恒盛国际公馆34幢101室"
     },
     {
       "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：羽卡尼（第25类、含过户费）",
-      "type": "无形资产"
+      "city": "无锡市",
+      "currentPrice": 620600.0,
+      "ensurePrice": 70000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【二拍】-平安银行-溪南新村376-1-101"
     },
     {
       "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：梵毕洛（第25类、含过户费）",
-      "type": "无形资产"
+      "city": "无锡市",
+      "currentPrice": 1915000.0,
+      "ensurePrice": 200000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-无锡永定巷15-2304"
     },
     {
       "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：伊萌蕊（第25类、含过户费）",
-      "type": "无形资产"
+      "city": "无锡市",
+      "currentPrice": 886600.0,
+      "ensurePrice": 90000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-无锡溪南新村376-1-101"
     },
     {
       "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 8000.0,
-      "ensurePrice": 5000.0,
-      "priceLowerOffset": 100.0,
-      "publisher": "常熟腾庆商贸有限公司",
-      "title": "商标：泊锦芙（第25类、含过户费）",
-      "type": "无形资产"
+      "city": "南通市",
+      "currentPrice": 45000000.0,
+      "ensurePrice": 1000000.0,
+      "priceLowerOffset": 200000.0,
+      "publisher": "天勤资产拍卖",
+      "title": "南通市经济技术开发区民兴路3号工业房地产"
+    },
+    {
+      "bidCount": 0,
+      "city": "连云港市",
+      "currentPrice": 120000.0,
+      "ensurePrice": 20000.0,
+      "priceLowerOffset": 500.0,
+      "publisher": "东风拍卖行",
+      "title": "【东风拍卖】集装箱做的房子六个"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 2312200.0,
+      "ensurePrice": 240000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【三拍】-平安银行-无锡市汉江北路119号121号"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 1031800.0,
+      "ensurePrice": 110000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【二拍】-平安银行-徐州市经济技术开发区欧蓓莎国际商城B28号楼1－303等11套商业物业"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 2569100.0,
+      "ensurePrice": 260000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【二拍】-平安银行-汉江北路119号、121号商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 2096200.0,
+      "ensurePrice": 210000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-汉江北路170号房产"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 3670200.0,
+      "ensurePrice": 370000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-汉江北路119号121号房产"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 5800000.0,
+      "ensurePrice": 580000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-宜兴海德名园35号别墅"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 1474000.0,
+      "ensurePrice": 150000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "平安银行总行资产拍卖",
+      "title": "【一拍】-平安银行-徐州经济技术开发区欧蓓莎国际商城B28号楼1-303等11套商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 5000000.0,
+      "ensurePrice": 100000.0,
+      "priceLowerOffset": 10000.0,
+      "publisher": "徐州国大拍卖",
+      "title": "【一拍】-国大拍卖-无锡市滨湖区太湖梅梁苑32号独栋别墅（现名为阿维侬庄园）一套"
     }
   ]
 }

@@ -15,6 +15,3 @@
 ### 包配置
 - pip install requests
 - pip install bs4
-
-### 注意事项
-- 请至JD.py line 40 修改爬取页数
