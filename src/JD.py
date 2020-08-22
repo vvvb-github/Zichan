@@ -1,10 +1,12 @@
-import spider
+from src import spider
 import json
 import time
+import os
 
 # 将结果输出到jd.txt/json
-file = open('jd.txt', 'w', encoding='utf-8')
-jsonFile = open('jd.json', 'w', encoding='utf-8')
+current_path = os.path.dirname(__file__)
+file = open(current_path+'/data/jd.txt', 'w', encoding='utf-8')
+jsonFile = open(current_path+'/data/jd.json', 'w', encoding='utf-8')
 
 number = 1  # 序号
 typeMapping = dict()  # 类别映射
