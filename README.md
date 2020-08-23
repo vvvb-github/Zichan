@@ -43,4 +43,4 @@ pip install bs4
 
 ### 注意事项
 - 请在 JD.py line 49 修改京东爬取页数
-- 请在 TB.py line 19 修改京东爬取页数
+- 请在 TB.py line 25 修改京东爬取页数
