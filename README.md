@@ -32,8 +32,8 @@
 ```
 
 ### 配置
-- Python 3.8
-- pip 20.2.2
+- [Python 3.8](https://www.python.org/getit/)
+- [pip 20.2.2](https://pip.pypa.io/en/latest/installing/)
 
 ### 包配置
 ```
@@ -43,4 +43,4 @@ pip install bs4
 
 ### 注意事项
 - 请在 JD.py line 49 修改京东爬取页数
-- 请在 TB.py line 25 修改京东爬取页数
+- 请在 TB.py line 25 修改淘宝爬取页数
