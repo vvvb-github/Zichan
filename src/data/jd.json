@@ -2,15 +2,6 @@
   "jd": [
     {
       "bidCount": 0,
-      "city": "苏州市",
-      "currentPrice": 3000000.0,
-      "ensurePrice": 150000.0,
-      "priceLowerOffset": 0.0,
-      "publisher": "武义知青",
-      "title": "（房产）苏州市高新区新升新苑84幢101室"
-    },
-    {
-      "bidCount": 0,
       "city": "南通市",
       "currentPrice": 254000.0,
       "ensurePrice": 30000.0,
@@ -173,6 +164,15 @@
     },
     {
       "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 3000000.0,
+      "ensurePrice": 150000.0,
+      "priceLowerOffset": 0.0,
+      "publisher": "武义知青",
+      "title": "（房产）苏州市高新区新升新苑84幢101室"
+    },
+    {
+      "bidCount": 0,
       "city": "南通市",
       "currentPrice": 350000.0,
       "ensurePrice": 50000.0,
@@ -327,20 +327,20 @@
     {
       "bidCount": 0,
       "city": "南通市",
-      "currentPrice": 977022.0,
-      "ensurePrice": 40000.0,
-      "priceLowerOffset": 1000.0,
-      "publisher": "未知",
-      "title": "南通市通州区果园名居8幢507"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
       "currentPrice": 984744.0,
       "ensurePrice": 40000.0,
       "priceLowerOffset": 1000.0,
       "publisher": "未知",
       "title": "南通市通州区果园名居5幢503"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 977022.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区果园名居8幢507"
     },
     {
       "bidCount": 0,
@@ -543,20 +543,20 @@
     {
       "bidCount": 0,
       "city": "南通市",
-      "currentPrice": 1075215.0,
-      "ensurePrice": 40000.0,
-      "priceLowerOffset": 1000.0,
-      "publisher": "未知",
-      "title": "南通市通州区泰山公寓20幢505"
-    },
-    {
-      "bidCount": 0,
-      "city": "南通市",
       "currentPrice": 1085986.0,
       "ensurePrice": 40000.0,
       "priceLowerOffset": 1000.0,
       "publisher": "未知",
       "title": "南通市通州区泰山公寓12幢506"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 1075215.0,
+      "ensurePrice": 40000.0,
+      "priceLowerOffset": 1000.0,
+      "publisher": "未知",
+      "title": "南通市通州区泰山公寓20幢505"
     },
     {
       "bidCount": 0,

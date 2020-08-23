@@ -14,6 +14,7 @@ def getSoup(url):
     time.sleep(random.randint(1, 3))
 
     html = requests.get(url, headers=headers)
+    # print(html.text)
     soup = BeautifulSoup(html.text, 'lxml')
 
     return soup

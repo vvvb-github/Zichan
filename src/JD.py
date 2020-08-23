@@ -46,7 +46,7 @@ def hasChinese(s):
 def main():
     mapping()
 
-    pages = 4  # 网页共有4页
+    pages = 4  # 页数，网页共含有4页，此处抓取4页作为测试
     url = 'https://auction.jd.com/getAssetsList.html?childrenCateId=12762&provinceId=12&limit=40&page='
     fix = '&callback=axiosJsonpCallback6&_=1598077141286'
 
@@ -91,7 +91,7 @@ def writeTxt(data):
     else:
         file.write('送拍机构：未知\n\n')
 
-    print(number)
+    print('jd:' + str(number))
     number = number + 1
 
 

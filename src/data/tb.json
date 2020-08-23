@@ -1,0 +1,580 @@
+{
+  "tb": [
+    {
+      "bidCount": 1,
+      "city": "南京市",
+      "currentPrice": 589375.76,
+      "ensurePrice": 80000.0,
+      "marketPrice": 959700.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园49幢一单元302"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 485200.0,
+      "ensurePrice": 97040.0,
+      "marketPrice": 606500.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）沭阳县雯锦花园小区7-103商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 485200.0,
+      "ensurePrice": 97040.0,
+      "marketPrice": 606500.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）沭阳县雯锦花园小区7-101商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 485200.0,
+      "ensurePrice": 97040.0,
+      "marketPrice": 606500.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）沭阳县雯锦花园小区7-102商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 410960.0,
+      "ensurePrice": 82192.0,
+      "marketPrice": 513700.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）沭阳县雯锦花园小区4-120商铺"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 227494320.0,
+      "ensurePrice": 20000000.0,
+      "marketPrice": 284367900.0,
+      "priceLowerOffset": 500000.0,
+      "title": "（破）常熟市新茂路1号新茂轻纺城1、2、3、4幢房地产（在建工程）"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 611729.91,
+      "ensurePrice": 80000.0,
+      "marketPrice": 996100.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园48幢二单元304"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 450583.51,
+      "ensurePrice": 60000.0,
+      "marketPrice": 733700.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园07幢106室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 369150.54,
+      "ensurePrice": 40000.0,
+      "marketPrice": 601100.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园07幢103室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 335742.14,
+      "ensurePrice": 40000.0,
+      "marketPrice": 546700.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园07幢104室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 622354.28,
+      "ensurePrice": 80000.0,
+      "marketPrice": 1013400.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园36幢二单元304"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 369150.54,
+      "ensurePrice": 40000.0,
+      "marketPrice": 601100.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园07幢105室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 4121822.76,
+      "ensurePrice": 600000.0,
+      "marketPrice": 6711700.0,
+      "priceLowerOffset": 30000.0,
+      "title": "（破）南京市六合区横梁镇山东路53号5幢101室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 3599693.69,
+      "ensurePrice": 500000.0,
+      "marketPrice": 5861500.0,
+      "priceLowerOffset": 30000.0,
+      "title": "（破）南京市六合区横梁镇山东路49号4 幢101室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 589375.76,
+      "ensurePrice": 80000.0,
+      "marketPrice": 959700.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园49幢二单元303"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 580163.89,
+      "ensurePrice": 80000.0,
+      "marketPrice": 944700.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园48幢二单元303"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 621433.09,
+      "ensurePrice": 80000.0,
+      "marketPrice": 1011900.0,
+      "priceLowerOffset": 5000.0,
+      "title": "（破）南京市六合区横梁镇山东路51号雨花石文化园37幢二单元304"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 129774612.0,
+      "ensurePrice": 15000000.0,
+      "marketPrice": 178010300.0,
+      "priceLowerOffset": 1500000.0,
+      "title": "（破）南京市鼓楼区热河路50号阅江广场201室、202室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 112050653.0,
+      "ensurePrice": 15000000.0,
+      "marketPrice": 153704600.0,
+      "priceLowerOffset": 1500000.0,
+      "title": "（破）南京市鼓楼区热河路50号阅江广场301室、302室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 39302400.0,
+      "ensurePrice": 3930000.0,
+      "marketPrice": 92700000.0,
+      "priceLowerOffset": 100000.0,
+      "title": "（破）启东中信科技有限公司名下的国有土地使用权及在建工程"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 3504300.0,
+      "ensurePrice": 350000.0,
+      "marketPrice": 6759900.0,
+      "priceLowerOffset": 20000.0,
+      "title": "（破）国际金融中心大厦负一楼房产（变卖二））"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 14157800.0,
+      "ensurePrice": 1200000.0,
+      "marketPrice": 27310500.0,
+      "priceLowerOffset": 100000.0,
+      "title": "（破）张家港保税区国际金融中心大厦二楼资产（变卖二）"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 10720300.0,
+      "ensurePrice": 1000000.0,
+      "marketPrice": 20679500.0,
+      "priceLowerOffset": 80000.0,
+      "title": "（破）张家港市金港镇保税区（国际金融中心大厦）四楼房产（变卖二）"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 5906700.0,
+      "ensurePrice": 600000.0,
+      "marketPrice": 11394100.0,
+      "priceLowerOffset": 40000.0,
+      "title": "（破）国际金融中心大厦一楼部分房产（变卖二）"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 1508900.0,
+      "ensurePrice": 150000.0,
+      "marketPrice": 2910700.0,
+      "priceLowerOffset": 10000.0,
+      "title": "（破）张家港市保税区金港路国际金融中心大厦五楼部分房产（变卖二））"
+    },
+    {
+      "bidCount": 1,
+      "city": "淮安市",
+      "currentPrice": 725928.0,
+      "ensurePrice": 70000.0,
+      "marketPrice": 1296300.0,
+      "priceLowerOffset": 2000.0,
+      "title": "盱眙县盱城街道淮河北路186号新泗洲公寓B2902室"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 17100000.0,
+      "ensurePrice": 3420000.0,
+      "marketPrice": 30517800.0,
+      "priceLowerOffset": 80000.0,
+      "title": "沭阳县贤官镇大江木业南侧房屋及土地使用权"
+    },
+    {
+      "bidCount": 0,
+      "city": "常州市",
+      "currentPrice": 111663200.0,
+      "ensurePrice": 6000000.0,
+      "marketPrice": 199398456.0,
+      "priceLowerOffset": 10000.0,
+      "title": "溧阳经济开发区北山工业园新时代大道1号1幢、2幢、3幢厂房、工业用地及机器设备"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 790000.0,
+      "ensurePrice": 150000.0,
+      "marketPrice": 1410615.0,
+      "priceLowerOffset": 7000.0,
+      "title": "泗洪县青阳利达广场11幢201室房产"
+    },
+    {
+      "bidCount": 0,
+      "city": "南通市",
+      "currentPrice": 291200.0,
+      "ensurePrice": 30000.0,
+      "marketPrice": 520000.0,
+      "priceLowerOffset": 2000.0,
+      "title": "位于如皋市丁堰镇华盛苑A112幢506室的不动产"
+    },
+    {
+      "bidCount": 0,
+      "city": "扬州市",
+      "currentPrice": 314951.0,
+      "ensurePrice": 60000.0,
+      "marketPrice": 414408.0,
+      "priceLowerOffset": 3000.0,
+      "title": "扬州市邗江区博物馆路295、297号(名扬广场）1048室房地产"
+    },
+    {
+      "bidCount": 5,
+      "city": "泰州市",
+      "currentPrice": 4952440.0,
+      "ensurePrice": 980000.0,
+      "marketPrice": 7017768.0,
+      "priceLowerOffset": 20000.0,
+      "title": "泰州市海陵区九龙镇世纪大道51号1-7幢厂房"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 3570000.0,
+      "ensurePrice": 700000.0,
+      "marketPrice": 5100000.0,
+      "priceLowerOffset": 17000.0,
+      "title": "苏州工业园区津梁街133号15幢2201室房地产（含固定装修及家具家电）"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 984760.0,
+      "ensurePrice": 100000.0,
+      "marketPrice": 1406800.0,
+      "priceLowerOffset": 9000.0,
+      "title": "徐州市淮海西路255#公交商贸大厦1-1902室房产"
+    },
+    {
+      "bidCount": 0,
+      "city": "淮安市",
+      "currentPrice": 669700.0,
+      "ensurePrice": 80000.0,
+      "marketPrice": 669700.0,
+      "priceLowerOffset": 2000.0,
+      "title": "淮安市清隆家园南院一区5号楼608室"
+    },
+    {
+      "bidCount": 0,
+      "city": "无锡市",
+      "currentPrice": 1230000.0,
+      "ensurePrice": 190000.0,
+      "marketPrice": 1745987.0,
+      "priceLowerOffset": 1000.0,
+      "title": "江阴市文富花苑二区44幢505室住宅房地产（含装潢、阁楼及自行车库）"
+    },
+    {
+      "bidCount": 0,
+      "city": "镇江市",
+      "currentPrice": 4774059.0,
+      "ensurePrice": 480000.0,
+      "marketPrice": 5304510.0,
+      "priceLowerOffset": 40000.0,
+      "title": "镇江市东吴路75号13-14幢第二层局部房产及土地使用权"
+    },
+    {
+      "bidCount": 2,
+      "city": "无锡市",
+      "currentPrice": 2170000.0,
+      "ensurePrice": 340000.0,
+      "marketPrice": 3091276.5,
+      "priceLowerOffset": 2000.0,
+      "title": "江阴市朝阳关南路69-4、69-5号非住宅房地产（含装潢）"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 280000.0,
+      "ensurePrice": 50000.0,
+      "marketPrice": 400000.0,
+      "priceLowerOffset": 1000.0,
+      "title": "南京市鼓楼区黑龙江路19号汇林绿洲怡林苑地下车库66号车位"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 4270000.0,
+      "ensurePrice": 500000.0,
+      "marketPrice": 6100000.0,
+      "priceLowerOffset": 10000.0,
+      "title": "南京市鼓楼区黑龙江路19号汇林绿洲怡林苑3幢3单元101室房产"
+    },
+    {
+      "bidCount": 0,
+      "city": "镇江市",
+      "currentPrice": 106831.0,
+      "ensurePrice": 20000.0,
+      "marketPrice": 152615.0,
+      "priceLowerOffset": 3000.0,
+      "title": "江苏省镇江市谷阳路68号镇江食品商城12幢第1层1162室房地产"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 405020.0,
+      "ensurePrice": 60000.0,
+      "marketPrice": 578600.0,
+      "priceLowerOffset": 1000.0,
+      "title": "位于宿迁市淮海建材装饰城27幢1-3层22号房地产（含不可移动装饰装修）"
+    },
+    {
+      "bidCount": 0,
+      "city": "泰州市",
+      "currentPrice": 2450000.0,
+      "ensurePrice": 250000.0,
+      "marketPrice": 3500000.0,
+      "priceLowerOffset": 10000.0,
+      "title": "泰州市高港区府后人家爵士风情9幢102室房地产"
+    },
+    {
+      "bidCount": 2,
+      "city": "连云港市",
+      "currentPrice": 1208200.0,
+      "ensurePrice": 150000.0,
+      "marketPrice": 1575920.0,
+      "priceLowerOffset": 5000.0,
+      "title": "海州区易居公馆第5幢无单元1102室"
+    },
+    {
+      "bidCount": 5,
+      "city": "徐州市",
+      "currentPrice": 1179269.0,
+      "ensurePrice": 120000.0,
+      "marketPrice": 1684670.0,
+      "priceLowerOffset": 5000.0,
+      "title": "徐州市中山北路水苑长桥小区A7#-1-201及地下室及1-12地下室及118车库"
+    },
+    {
+      "bidCount": 1,
+      "city": "泰州市",
+      "currentPrice": 700000.0,
+      "ensurePrice": 100000.0,
+      "marketPrice": 1000000.0,
+      "priceLowerOffset": 3000.0,
+      "title": "泰兴市济川街道都市江南花园6幢602室房地产（含储物间）"
+    },
+    {
+      "bidCount": 0,
+      "city": "淮安市",
+      "currentPrice": 670700.0,
+      "ensurePrice": 80000.0,
+      "marketPrice": 670700.0,
+      "priceLowerOffset": 2000.0,
+      "title": "淮安市清隆家园一区10号楼606室"
+    },
+    {
+      "bidCount": 0,
+      "city": "南京市",
+      "currentPrice": 846860.0,
+      "ensurePrice": 110000.0,
+      "marketPrice": 1209800.0,
+      "priceLowerOffset": 6000.0,
+      "title": "南京市鼓楼区五所村440号3单元402室"
+    },
+    {
+      "bidCount": 0,
+      "city": "镇江市",
+      "currentPrice": 2471524.0,
+      "ensurePrice": 250000.0,
+      "marketPrice": 2746137.0,
+      "priceLowerOffset": 20000.0,
+      "title": "镇江市东吴路75号13幢第一层局部房产及土地使用权"
+    },
+    {
+      "bidCount": 1,
+      "city": "泰州市",
+      "currentPrice": 525000.0,
+      "ensurePrice": 100000.0,
+      "marketPrice": 750000.0,
+      "priceLowerOffset": 5000.0,
+      "title": "泰州市海陵区东进小区114幢406室"
+    },
+    {
+      "bidCount": 0,
+      "city": "徐州市",
+      "currentPrice": 420000.0,
+      "ensurePrice": 50000.0,
+      "marketPrice": 596400.0,
+      "priceLowerOffset": 5000.0,
+      "title": "邳州市八义集镇八义集村中心广场的三层不动产一套及其室内不可移动的装修财产"
+    },
+    {
+      "bidCount": 0,
+      "city": "淮安市",
+      "currentPrice": 502950.0,
+      "ensurePrice": 60000.0,
+      "marketPrice": 718500.0,
+      "priceLowerOffset": 2000.0,
+      "title": "涟水畔水美庭3幢2S05室不动产"
+    },
+    {
+      "bidCount": 0,
+      "city": "苏州市",
+      "currentPrice": 2153900.0,
+      "ensurePrice": 430000.0,
+      "marketPrice": 3077000.0,
+      "priceLowerOffset": 10000.0,
+      "title": "苏州市吴中区月苑街70号房地产（含固定装修）"
+    },
+    {
+      "bidCount": 4,
+      "city": "苏州市",
+      "currentPrice": 3708000.0,
+      "ensurePrice": 730000.0,
+      "marketPrice": 5269900.0,
+      "priceLowerOffset": 18000.0,
+      "title": "苏州市相城区元和街道阳澄湖东路18号江南村别墅A1号房地产（含固定装修）"
+    },
+    {
+      "bidCount": 1,
+      "city": "苏州市",
+      "currentPrice": 2171000.0,
+      "ensurePrice": 348000.0,
+      "marketPrice": 3100807.89,
+      "priceLowerOffset": 8700.0,
+      "title": "苏州市阳光城花园58幢202室房产(含室内动产、室内固定装修及车库10一只)"
+    },
+    {
+      "bidCount": 5,
+      "city": "宿迁市",
+      "currentPrice": 118100.0,
+      "ensurePrice": 15000.0,
+      "marketPrice": 167258.0,
+      "priceLowerOffset": 1000.0,
+      "title": "泗洪县富园广场21幢1单元3069室房产"
+    },
+    {
+      "bidCount": 0,
+      "city": "淮安市",
+      "currentPrice": 1000000.0,
+      "ensurePrice": 100000.0,
+      "marketPrice": 1003900.0,
+      "priceLowerOffset": 5000.0,
+      "title": "淮安经济技术开发区青岛路38号29幢602室"
+    },
+    {
+      "bidCount": 0,
+      "city": "淮安市",
+      "currentPrice": 970000.0,
+      "ensurePrice": 100000.0,
+      "marketPrice": 1029300.0,
+      "priceLowerOffset": 5000.0,
+      "title": "淮安经济技术开发区青岛路38号16幢601室"
+    },
+    {
+      "bidCount": 0,
+      "city": "镇江市",
+      "currentPrice": 4394082.0,
+      "ensurePrice": 400000.0,
+      "marketPrice": 4882313.0,
+      "priceLowerOffset": 20000.0,
+      "title": "镇江市东吴路75号12幢第二层房产及土地使用权"
+    },
+    {
+      "bidCount": 0,
+      "city": "淮安市",
+      "currentPrice": 517860.0,
+      "ensurePrice": 60000.0,
+      "marketPrice": 739800.0,
+      "priceLowerOffset": 2000.0,
+      "title": "涟水畔水美庭3幢2S08室不动产"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 1323800.0,
+      "ensurePrice": 210000.0,
+      "marketPrice": 1891100.0,
+      "priceLowerOffset": 5000.0,
+      "title": "宿迁市宿城区乐府兰庭A2-1-701A室房产及#B12车位"
+    },
+    {
+      "bidCount": 0,
+      "city": "连云港市",
+      "currentPrice": 201400.0,
+      "ensurePrice": 40000.0,
+      "marketPrice": 287590.0,
+      "priceLowerOffset": 2000.0,
+      "title": "开发区昆仑山1号龙禧深蓝公寓2217室"
+    },
+    {
+      "bidCount": 13,
+      "city": "连云港市",
+      "currentPrice": 288000.0,
+      "ensurePrice": 30000.0,
+      "marketPrice": 252630.0,
+      "priceLowerOffset": 1000.0,
+      "title": "海州区电台街建工西巷93号"
+    },
+    {
+      "bidCount": 0,
+      "city": "宿迁市",
+      "currentPrice": 700000.0,
+      "ensurePrice": 70000.0,
+      "marketPrice": 729500.0,
+      "priceLowerOffset": 2000.0,
+      "title": "淮安经济技术开发区明远东路8号7幢205室"
+    }
+  ]
+}
